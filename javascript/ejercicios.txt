@@ -1,0 +1,42 @@
+
+1. Cree una página web que pida (prompt) el nombre, la edad y estado civil.
+Almacene estos datos en variables y muestre los datos en pantalla (alert)
+
+2. Realizar la carga de dos números por teclado (prompt) y mostrar (alert) su suma y
+su producto. ¡OJO! Los datos introducidos siempre son de tipo carácter.
+
+3. Realice un programa que muestre su nombre y su edad en una página HTML.
+Emplear el comando write del objeto document para imprimir. Tener en cuenta que
+si queremos que cada dato quede en una fila distinta de la página debemos
+insertar la etiqueta <br /> (salto de linea en HTML), es decir, debemos teclear la
+siguiente instrucción: document.write('<br />').
+
+4. Realizar un programa que imprima 25 términos de la serie 11 - 22 - 33 - 44, etc.
+(No se ingresan valores por teclado).
+
+5. Realizar un programa que lea un número indeterminado de números distintos
+(prompt) y muestre el mayor de ellos. El proceso de petición de número finaliza al
+introducir el número 0.
+
+EJERCICIOS
+1. Cree un programa que muestre en el documento HTML el mensaje "Hola Mundo".
+(alert)
+
+2. Escribir un programa en el cual se ingresen dos números(prompt), calcular e
+informar (alert) de la suma y el productos de dichos números.
+
+3. Introducir un importe (prompt) e indicar la descomposición en monedas de curso
+legal, utilizando el menor número de monedas y billetes. (Unidad mínima 1 euro)
+
+4. Se ingresan el nombre del alumno y tres notas de un alumno, si el promedio es
+mayor o igual a siete mostrar el mensaje 'Promociona'. Si la nota es inferior a siete
+mostrar el mensaje 'NO promociona'. (prompt, document.wirte)
+
+5. Confeccione un programa que solicite que se ingrese un valor entre 1 y 5. Luego
+mostrar el valor ingresado. Mostrar un mensaje de error si el número introducido
+no se encuentre en dicho rango. Este proceso se repetirá hasta que se introduzca
+el valor 0 (cero)
+
+6. Desarrollar un programa que permita cargar números enteros y luego nos informe
+cuántos valores fueron pares, cuántos impares y cuantos erróneos (NaN). Utilizar
+bucles. Finaliza al introducir el valor 0 (cero)
